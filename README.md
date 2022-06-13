@@ -12,19 +12,15 @@ Dependências do projeto:
 
 ## Como executar
 
-1. Clonar o repositório:
-
 Clonando repositório
 ```bash
 $ git clone https://github.com/pedrxlz/sisagri-challenge.git
 ```
 
-Acessar diretório do projeto
+Acessando diretório do projeto
 ```bash
 $ cd sisagri-challenge
 ```
-
-2. Instalar dependências
 
 ```bash
 $ npm install
