@@ -22,6 +22,7 @@ Acessando diretório do projeto
 $ cd sisagri-challenge
 ```
 
+Instalando dependências
 ```bash
 $ npm install
 ```
