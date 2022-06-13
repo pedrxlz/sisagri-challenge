@@ -14,20 +14,28 @@ Dependências do projeto:
 
 1. Clonar o repositório:
 
+Clonando repositório
 ```bash
-# Clonando repositório
 $ git clone https://github.com/pedrxlz/sisagri-challenge.git
-# Acessar diretório do projeto
+```
+
+Acessar diretório do projeto
+```bash
 $ cd sisagri-challenge
 ```
 
 2. Instalar dependências
 
 ```bash
-# Instalando dependências
 $ npm install
-# Instalando React Router
+```
+
+Instalando React Router
+```bash
 $ npm install react-router-dom@6
-# Rodando projeto
+```
+
+Rodando projeto
+```bash
 $ npm run dev
 ```
